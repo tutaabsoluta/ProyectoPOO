@@ -1,0 +1,16 @@
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\bin\Debug\QuizSergio.exe.config
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\bin\Debug\QuizSergio.exe
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\bin\Debug\QuizSergio.pdb
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\obj\Debug\QuizSergio.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\obj\Debug\QuizSergio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\obj\Debug\QuizSergio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\obj\Debug\QuizSergio.exe
+C:\Users\Sergio\source\repos\QuizSergio\QuizSergio\obj\Debug\QuizSergio.pdb
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\bin\Debug\QuizSergio.exe.config
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\bin\Debug\QuizSergio.exe
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\bin\Debug\QuizSergio.pdb
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\obj\Debug\QuizSergio.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\obj\Debug\QuizSergio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\obj\Debug\QuizSergio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\obj\Debug\QuizSergio.exe
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 1\QuizSergio\QuizSergio\obj\Debug\QuizSergio.pdb
